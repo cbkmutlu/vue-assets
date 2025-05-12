@@ -25,7 +25,7 @@
                   size="default" />
             </template>
 
-            <template v-slot:title>Bayi Yönetimi</template>
+            <template v-slot:title>Module 1</template>
          </v-list-item>
 
          <div class="flex-1"></div>
